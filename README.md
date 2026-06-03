@@ -7,14 +7,18 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avishek-Pratyay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://avishekp.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="http://www.linkedin.com/in/avishek-chanda">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:avishekpratyay97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="Email" />
   </a>
 </p>
 
@@ -33,13 +37,13 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
@@ -48,7 +52,7 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ### Core Skills
@@ -61,7 +65,7 @@
 * Node.js
 * Express.js
 * MongoDB
-* Firebase
+* Firebase Authentication
 * JWT Authentication
 * REST API Development
 * CRUD Operations
@@ -71,16 +75,26 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avishek-Pratyay&theme=tokyonight&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🏢 StudyNook – Online Room Booking Management System
 
-**Live Site:** https://studynook-client-side.vercel.app/
+**🔗 Live Site:**
+https://studynook-client-side.vercel.app/
 
-**GitHub:** https://github.com/Avishek-Pratyay/StudyNook-client-side
+**💻 GitHub Repository:**
+https://github.com/Avishek-Pratyay/StudyNook-client-side
 
 **Tech Stack:**
-Next.js, React.js, Tailwind CSS, Axios, Firebase Authentication, Framer Motion, Node.js, Express.js, MongoDB, JWT Authentication
+Next.js • React.js • Tailwind CSS • Axios • Firebase Authentication • Framer Motion • Node.js • Express.js • MongoDB • JWT Authentication
 
 **Key Features:**
 
@@ -97,12 +111,14 @@ Next.js, React.js, Tailwind CSS, Axios, Firebase Authentication, Framer Motion, 
 
 ### 📚 BookHub – Online Book Buying Platform
 
-**Live Site:** https://project-book-hub.vercel.app/
+**🔗 Live Site:**
+https://project-book-hub.vercel.app/
 
-**GitHub:** https://github.com/Avishek-Pratyay/Project-BookHub
+**💻 GitHub Repository:**
+https://github.com/Avishek-Pratyay/Project-BookHub
 
 **Tech Stack:**
-Next.js, React.js, Better Auth, MongoDB, Tailwind CSS, DaisyUI, Swiper
+Next.js • React.js • Better Auth • MongoDB • Tailwind CSS • DaisyUI • Swiper
 
 **Key Features:**
 
@@ -118,12 +134,14 @@ Next.js, React.js, Better Auth, MongoDB, Tailwind CSS, DaisyUI, Swiper
 
 ### 🤝 Friendship Tracker
 
-**Live Site:** https://friendshiptracker-avishek.netlify.app/
+**🔗 Live Site:**
+https://friendshiptracker-avishek.netlify.app/
 
-**GitHub:** https://github.com/Avishek-Pratyay/Project-KeenKeeper
+**💻 GitHub Repository:**
+https://github.com/Avishek-Pratyay/Project-KeenKeeper
 
 **Tech Stack:**
-React.js, Tailwind CSS, Recharts, React Router, Context API, JavaScript (ES6+)
+React.js • Tailwind CSS • Recharts • React Router • Context API • JavaScript (ES6+)
 
 **Key Features:**
 
@@ -144,25 +162,22 @@ React.js, Tailwind CSS, Recharts, React Router, Context API, JavaScript (ES6+)
 * REST API integration experience
 * Team collaboration through academic projects
 * Continuous learning mindset
-* Built 2 Full-Stack Projects and 1 Frontend Project
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avishek-Pratyay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Avishek-Pratyay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek-Pratyay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishek-Pratyay&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek-Pratyay&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Avishek-Pratyay&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 ## 📫 Connect With Me
 
