@@ -85,6 +85,31 @@
 
 ## 🌟 Featured Projects
 
+
+### 🚀 StartupForge – Startup Collaboration & Recruitment Platform
+
+**🔗 Live Site:**
+https://startupforge-client-six.vercel.app/
+
+**💻 GitHub Repository:**
+https://github.com/Avishek-Pratyay/startupforge-client
+
+**Tech Stack:**
+React.js • Tailwind CSS • Firebase Authentication • JWT Authentication • Axios • Node.js • Express.js • MongoDB • Stripe • React Router
+
+**Key Features:**
+
+* 🔐 Secure authentication using Firebase Authentication and JWT HTTP-only cookies
+* 👥 Multi-role system with Founder, Collaborator, and Admin dashboards
+* 🚀 Create, manage, approve, and discover startup profiles
+* 💼 Publish collaboration opportunities and apply with duplicate application prevention
+* 💳 Stripe-powered Premium Founder subscription to unlock additional opportunity postings
+* 📊 Admin dashboard with user management, startup approval workflow, analytics, and revenue tracking
+* 📈 Founder dashboard featuring opportunity management, application tracking, and team recruitment
+* 📱 Fully responsive user interface optimized for desktop, tablet, and mobile devices
+
+---
+
 ### 🏢 StudyNook – Online Room Booking Management System
 
 **🔗 Live Site:**
