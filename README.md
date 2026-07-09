@@ -1,4 +1,4 @@
-# Hi 👋, I'm Avishek Chanda Pratyay
+<h2 align="center">Hi 👋, I'm Avishek Chanda Pratyay</h2>
 
 <h3 align="center">MERN Stack Developer | React & Next.js Enthusiast | Open to New Opportunities</h3>
 
@@ -52,7 +52,7 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ### Core Skills
