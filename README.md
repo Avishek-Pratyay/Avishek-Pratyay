@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Avishek-Github-Banner.png" alt="Avishek Banner" width="100%" />
+</p>
+
 <h2 align="center">Hi 👋, I'm Avishek Chanda Pratyay</h2>
 
 <h3 align="center">MERN Stack Developer | React & Next.js Enthusiast | Open to New Opportunities</h3>
